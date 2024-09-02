@@ -1,0 +1,46 @@
+    1  git config --global user.name "tetiana Bidnyk"
+    2  git config --global user.email tatyanka0402@gmail.com
+    3  git clone https://github.com/Tatyanka-go/HW_10.git
+    4  https://github.com/Tatyanka-go/HW_10.git
+    5  cd
+    6  cd Homework10
+    7  cd /Desktop/Homework10
+    8  cd /Desktop/Homework10
+    9  cd desktop/homework
+   10  cd Desktop/Homework
+   11  git config --global user.name "Tetiana Bidnyk"
+   12  git config --global user.email tatyanka0402@gmail.com
+   13  git clone https://github.com/Tatyanka-go/HW_10.git
+   14  cd HW_10
+   15  touch text_ignore.txt
+   16  vim .gitignor
+   17  git status
+   18  cd Homework
+   19  cd HW_10
+   20  git status
+   21  git add.
+   22  dit add .
+   23  git add .
+   24  git commit -m "text_ignore.txt added to gitignore"
+   25  touch main_test.txt
+   26  git add .
+   27  git commit -m " added main_test.txt"
+   28  git checkout -b develop
+   29  touch develop_test.txt
+   30  git add .
+   31  git commit -m "added develop_test.txt"
+   32  nano develop_test.txt file
+   33  git add .
+   34  cd HW_10 (develop)
+   35  cd develop
+   36  git add .
+   37  git status
+   38  git add .
+   39  git commit -m "added 123 to develop_test.txt"
+   40  git checkout main
+   41  git merge develop
+   42  git log
+   43  git add .
+   44  git commit -m "all chenches"
+   45  git push
+   46  history > command_list.csv
